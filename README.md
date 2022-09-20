@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://marcelovenagui.github.io/html-Css/desafios/d010/">
+<a href="https://marcelovenagui.github.io/html-Css/desafios/d010/">Executar o exercício 1</a>
