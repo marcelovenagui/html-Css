@@ -1,0 +1,9 @@
+* {
+    height: 100%;
+}
+    body{
+
+        background-image: linear-gradient(180deg, #7E0CFF, #CB00E8, #FF00C2 ,  #FF009A ,#FF0070 ,#FF5E00, #FFCB00);
+        color: aliceblue;
+    }
+    

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+div#d1{
+    display: inline-block;
+    background-color: aqua;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+div#d2{
+    display: inline-block;
+    background-color: aqua;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+div#d3{
+    display: inline-block;
+    background-color: aqua;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+div > p {
+    display: block;
+}
